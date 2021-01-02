@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/Assets">
+        <file>Assets/farmhouse.png</file>
+        <file>Assets/soldier.png</file>
+        <file>Assets/mine.png</file>
+        <file>Assets/headquarter.png</file>
+        <file>Assets/bomb.png</file>
+        <file>Assets/yellowFlag.png</file>
+        <file>Assets/redFlag.png</file>
+        <file>Assets/greenFlag.png</file>
+        <file>Assets/blueFlag.png</file>
+        <file>Assets/basicFarmer.png</file>
+        <file>Assets/engineer.png</file>
+        <file>Assets/fisher.png</file>
+    </qresource>
+</RCC>

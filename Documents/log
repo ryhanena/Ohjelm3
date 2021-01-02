@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<title>Shalom:master commits</title>
+<link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commits/master?feed_token=AZTgAACT9TquJo2eZCq_&amp;format=atom" rel="self" type="application/atom+xml"/>
+<link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commits/master" rel="alternate" type="text/html"/>
+<id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commits/master</id>
+<updated>2019-12-02T00:37:59Z</updated>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/866922dc0134f04b5b6b0f36768ea5c637970603</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/866922dc0134f04b5b6b0f36768ea5c637970603"/>
+  <title>Merge branch 'kononen'</title>
+  <updated>2019-12-02T00:37:59Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/950f82746289388fe075cc70077ee9c8?s=80&amp;d=identicon"/>
+  <author>
+    <name>Antti Ryhanen</name>
+    <email>ryhanena@linux-desktop1.cc.tut.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/7bce79758712008be7cbbc24707696877ab78b7d</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/7bce79758712008be7cbbc24707696877ab78b7d"/>
+  <title>Merge branch 'ryhanen'</title>
+  <updated>2019-12-02T00:37:23Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/950f82746289388fe075cc70077ee9c8?s=80&amp;d=identicon"/>
+  <author>
+    <name>Antti Ryhanen</name>
+    <email>ryhanena@linux-desktop1.cc.tut.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/5d9203e6d6a38f107da063df08245e8808154587</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/5d9203e6d6a38f107da063df08245e8808154587"/>
+  <title>Fiksailua</title>
+  <updated>2019-12-02T00:36:59Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/950f82746289388fe075cc70077ee9c8?s=80&amp;d=identicon"/>
+  <author>
+    <name>Antti Ryhanen</name>
+    <email>ryhanena@linux-desktop1.cc.tut.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/f8677f48aa6f11be234cc4a0d0e1f23429ef17f4</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/f8677f48aa6f11be234cc4a0d0e1f23429ef17f4"/>
+  <title>Viimeistelty dialogit</title>
+  <updated>2019-12-02T00:34:53Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/d43441491f851ab992630f72934d0cbd?s=80&amp;d=identicon"/>
+  <author>
+    <name>KONSTA KÖNÖNEN</name>
+    <email>konsta.kononen@tuni.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/e37decfb6c387dc7a0970d66026aacb21b50090b</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/e37decfb6c387dc7a0970d66026aacb21b50090b"/>
+  <title>Merge branch 'kononen'</title>
+  <updated>2019-12-01T21:39:33Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/950f82746289388fe075cc70077ee9c8?s=80&amp;d=identicon"/>
+  <author>
+    <name>Antti Ryhanen</name>
+    <email>ryhanena@linux-desktop1.cc.tut.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/6b28bb2e6d06afa233bb5d0d2df13c1a2963f324</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/6b28bb2e6d06afa233bb5d0d2df13c1a2963f324"/>
+  <title>Lisätty kommentteja</title>
+  <updated>2019-12-01T21:38:09Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/950f82746289388fe075cc70077ee9c8?s=80&amp;d=identicon"/>
+  <author>
+    <name>Antti Ryhanen</name>
+    <email>ryhanena@linux-desktop1.cc.tut.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/4ef3f1ade4c7911ff380eb3aa99e49de0d6a69fc</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/4ef3f1ade4c7911ff380eb3aa99e49de0d6a69fc"/>
+  <title>Dialogeja kehitetty</title>
+  <updated>2019-12-01T21:38:05Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/d43441491f851ab992630f72934d0cbd?s=80&amp;d=identicon"/>
+  <author>
+    <name>KONSTA KÖNÖNEN</name>
+    <email>konsta.kononen@tuni.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/36a06456adebf24ece80f1b1a43aa101c2fab149</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/36a06456adebf24ece80f1b1a43aa101c2fab149"/>
+  <title>Fiksattu resurssikartta, nyt rakentaessa ei poistu resursseja, mikäli niitä e...</title>
+  <updated>2019-12-01T20:05:09Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/950f82746289388fe075cc70077ee9c8?s=80&amp;d=identicon"/>
+  <author>
+    <name>Antti Ryhanen</name>
+    <email>ryhanena@linux-desktop1.cc.tut.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/1a4b3b2f9e7c9c947b5840278774acf439f9e7a7</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/1a4b3b2f9e7c9c947b5840278774acf439f9e7a7"/>
+  <title>Merge branch 'kononen'</title>
+  <updated>2019-12-01T19:36:09Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/950f82746289388fe075cc70077ee9c8?s=80&amp;d=identicon"/>
+  <author>
+    <name>Antti Ryhanen</name>
+    <email>ryhanena@linux-desktop1.cc.tut.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/e28b4f6e5dd5c9be99e8c540b2a906d99afd44cf</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/e28b4f6e5dd5c9be99e8c540b2a906d99afd44cf"/>
+  <title>LoppuDialogin toiminnallisuudet valmiit</title>
+  <updated>2019-12-01T19:34:43Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/950f82746289388fe075cc70077ee9c8?s=80&amp;d=identicon"/>
+  <author>
+    <name>Antti Ryhanen</name>
+    <email>ryhanena@linux-desktop1.cc.tut.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/13f409e873e31a2dc3be90f7c636a2d789ea7a1a</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/13f409e873e31a2dc3be90f7c636a2d789ea7a1a"/>
+  <title>Paranneltu käyttöliittymiä</title>
+  <updated>2019-12-01T19:34:39Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/d43441491f851ab992630f72934d0cbd?s=80&amp;d=identicon"/>
+  <author>
+    <name>KONSTA KÖNÖNEN</name>
+    <email>konsta.kononen@tuni.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/d432606b4a55998525259185098c9da36d63c1e6</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/d432606b4a55998525259185098c9da36d63c1e6"/>
+  <title>Muokattu rules ja resource dialogeja</title>
+  <updated>2019-12-01T19:12:16Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/d43441491f851ab992630f72934d0cbd?s=80&amp;d=identicon"/>
+  <author>
+    <name>KONSTA KÖNÖNEN</name>
+    <email>konsta.kononen@tuni.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/e07590891e057db7723b296ad20ce3edcf15f68c</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/e07590891e057db7723b296ad20ce3edcf15f68c"/>
+  <title>Merge branch 'master' into kononen</title>
+  <updated>2019-12-01T18:25:45Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/d43441491f851ab992630f72934d0cbd?s=80&amp;d=identicon"/>
+  <author>
+    <name>KONSTA KÖNÖNEN</name>
+    <email>konsta.kononen@tuni.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/274cc6f2c029b9210cce3facdc8274c3618a19b8</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/274cc6f2c029b9210cce3facdc8274c3618a19b8"/>
+  <title>Merge branch 'kononen'</title>
+  <updated>2019-12-01T18:25:01Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/950f82746289388fe075cc70077ee9c8?s=80&amp;d=identicon"/>
+  <author>
+    <name>Antti Ryhanen</name>
+    <email>ryhanena@linux-desktop1.cc.tut.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/8727b75df46fac2128ed8b3f7e94061921453e88</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/8727b75df46fac2128ed8b3f7e94061921453e88"/>
+  <title>Lisätty pro tiedostoon uudet luokat</title>
+  <updated>2019-12-01T18:24:12Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/d43441491f851ab992630f72934d0cbd?s=80&amp;d=identicon"/>
+  <author>
+    <name>KONSTA KÖNÖNEN</name>
+    <email>konsta.kononen@tuni.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/11a8df82bb48eafea96899dcfda3ee5751228017</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/11a8df82bb48eafea96899dcfda3ee5751228017"/>
+  <title>Lisätty pelaajien pisteiden laskenta loppudialogissa</title>
+  <updated>2019-12-01T18:24:04Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/950f82746289388fe075cc70077ee9c8?s=80&amp;d=identicon"/>
+  <author>
+    <name>Antti Ryhanen</name>
+    <email>ryhanena@linux-desktop1.cc.tut.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/95558be03d34ae00b9abc0b57974f55dfd4dec1a</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/95558be03d34ae00b9abc0b57974f55dfd4dec1a"/>
+  <title>Uusi resurssidialogi</title>
+  <updated>2019-12-01T18:23:44Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/d43441491f851ab992630f72934d0cbd?s=80&amp;d=identicon"/>
+  <author>
+    <name>KONSTA KÖNÖNEN</name>
+    <email>konsta.kononen@tuni.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/1eac65fc1f30c4b0dc4f3b825c279e9f1ed6abff</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/1eac65fc1f30c4b0dc4f3b825c279e9f1ed6abff"/>
+  <title>mapwindow ajantasalle</title>
+  <updated>2019-12-01T17:39:50Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/d43441491f851ab992630f72934d0cbd?s=80&amp;d=identicon"/>
+  <author>
+    <name>KONSTA KÖNÖNEN</name>
+    <email>konsta.kononen@tuni.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/4e98de9ed488570326957ee2a8a0cf76f3a5de50</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/4e98de9ed488570326957ee2a8a0cf76f3a5de50"/>
+  <title>Merge branch 'ryhanen'</title>
+  <updated>2019-12-01T17:29:00Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/d43441491f851ab992630f72934d0cbd?s=80&amp;d=identicon"/>
+  <author>
+    <name>KONSTA KÖNÖNEN</name>
+    <email>konsta.kononen@tuni.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/3f7ecffbd1d6a7ca851e57ef3b7ad0eb06711a64</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/3f7ecffbd1d6a7ca851e57ef3b7ad0eb06711a64"/>
+  <title>Lisätty uusi tile, Vuori</title>
+  <updated>2019-12-01T17:13:13Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/950f82746289388fe075cc70077ee9c8?s=80&amp;d=identicon"/>
+  <author>
+    <name>Antti Ryhanen</name>
+    <email>ryhanena@linux-desktop1.cc.tut.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/551c7038c50af77ba1b3fcf58d88ca16e8af9afd</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/551c7038c50af77ba1b3fcf58d88ca16e8af9afd"/>
+  <title>Merge branch 'ryhanen'</title>
+  <updated>2019-12-01T16:39:27Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/d43441491f851ab992630f72934d0cbd?s=80&amp;d=identicon"/>
+  <author>
+    <name>KONSTA KÖNÖNEN</name>
+    <email>konsta.kononen@tuni.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/e81e9ca260c82fe3e64020f09f2e0f0b79bc0680</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/e81e9ca260c82fe3e64020f09f2e0f0b79bc0680"/>
+  <title>Muokattu testejä paremmaksi</title>
+  <updated>2019-12-01T16:37:41Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/d43441491f851ab992630f72934d0cbd?s=80&amp;d=identicon"/>
+  <author>
+    <name>KONSTA KÖNÖNEN</name>
+    <email>konsta.kononen@tuni.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/ca1c92fa0f3845e66abc5d6ade642e7236269c78</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/ca1c92fa0f3845e66abc5d6ade642e7236269c78"/>
+  <title>Muokattu testejä</title>
+  <updated>2019-12-01T16:37:05Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/d43441491f851ab992630f72934d0cbd?s=80&amp;d=identicon"/>
+  <author>
+    <name>KONSTA KÖNÖNEN</name>
+    <email>konsta.kononen@tuni.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/f5057095b8362b3c74f3ce5bdcd307cdaacd0001</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/f5057095b8362b3c74f3ce5bdcd307cdaacd0001"/>
+  <title>Lisätty järvi, insinööri, sekä kalastaja, toimii</title>
+  <updated>2019-12-01T16:33:27Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/950f82746289388fe075cc70077ee9c8?s=80&amp;d=identicon"/>
+  <author>
+    <name>Antti Ryhanen</name>
+    <email>ryhanena@linux-desktop1.cc.tut.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/739ed223bb7575babfa999b623b2b676e1611cac</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/739ed223bb7575babfa999b623b2b676e1611cac"/>
+  <title>Mergetty ja korjattu konfliktit</title>
+  <updated>2019-12-01T14:35:48Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/d43441491f851ab992630f72934d0cbd?s=80&amp;d=identicon"/>
+  <author>
+    <name>KONSTA KÖNÖNEN</name>
+    <email>konsta.kononen@tuni.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/a33d33d425c64ee5eaf1d8eead19ff109629485b</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/a33d33d425c64ee5eaf1d8eead19ff109629485b"/>
+  <title>Siistitty funktioita</title>
+  <updated>2019-12-01T14:28:34Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/d43441491f851ab992630f72934d0cbd?s=80&amp;d=identicon"/>
+  <author>
+    <name>KONSTA KÖNÖNEN</name>
+    <email>konsta.kononen@tuni.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/c418ed971f0e3ecaee3a3bdab29681fc3a30a26e</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/c418ed971f0e3ecaee3a3bdab29681fc3a30a26e"/>
+  <title>Isoja vikoja huomattu</title>
+  <updated>2019-12-01T14:26:26Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/950f82746289388fe075cc70077ee9c8?s=80&amp;d=identicon"/>
+  <author>
+    <name>Antti Ryhanen</name>
+    <email>ryhanena@linux-desktop1.cc.tut.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/ce4a3cdaa9a53ee5222190022ef9a7d3a9fefc3d</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/ce4a3cdaa9a53ee5222190022ef9a7d3a9fefc3d"/>
+  <title>Muokattu rules-näkymää, lisätty round-connect, selvitetty vuoronvaihtoa, ylei...</title>
+  <updated>2019-12-01T00:57:39Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/d43441491f851ab992630f72934d0cbd?s=80&amp;d=identicon"/>
+  <author>
+    <name>KONSTA KÖNÖNEN</name>
+    <email>konsta.kononen@tuni.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/6826c3c9928728f32320a17c045f0b105e8ecae7</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/6826c3c9928728f32320a17c045f0b105e8ecae7"/>
+  <title>Konfliktit korjattu</title>
+  <updated>2019-11-30T17:57:23Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/41d6e4e6173ed5556a90055d24abb0ca?s=80&amp;d=identicon"/>
+  <author>
+    <name>Antti Ryhanen</name>
+    <email>ryhanena@linux-desktop3.cc.tut.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/6c9daa387b2b5e35d470cbee4f0775dd32a37f75</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/6c9daa387b2b5e35d470cbee4f0775dd32a37f75"/>
+  <title>siistitty funktioita ja poistettu turhia luokkia</title>
+  <updated>2019-11-30T17:49:23Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/d43441491f851ab992630f72934d0cbd?s=80&amp;d=identicon"/>
+  <author>
+    <name>KONSTA KÖNÖNEN</name>
+    <email>konsta.kononen@tuni.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/779c4953b267aa0992b8adb8847ee298fea74745</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/779c4953b267aa0992b8adb8847ee298fea74745"/>
+  <title>Tehty testifunktioita gameEventHnadleriin</title>
+  <updated>2019-11-30T17:47:14Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/d43441491f851ab992630f72934d0cbd?s=80&amp;d=identicon"/>
+  <author>
+    <name>KONSTA KÖNÖNEN</name>
+    <email>konsta.kononen@tuni.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/974237afc2c5ebabf138957778a5f0f1765ada36</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/974237afc2c5ebabf138957778a5f0f1765ada36"/>
+  <title>Yritetty tehdä objManagerin testejä</title>
+  <updated>2019-11-30T17:46:16Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/41d6e4e6173ed5556a90055d24abb0ca?s=80&amp;d=identicon"/>
+  <author>
+    <name>Antti Ryhanen</name>
+    <email>ryhanena@linux-desktop3.cc.tut.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/7eed5129ac245ea56958e07ee9ea95d5b6e4e813</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/7eed5129ac245ea56958e07ee9ea95d5b6e4e813"/>
+  <title>Kehitetty testejä</title>
+  <updated>2019-11-30T12:46:53Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/d43441491f851ab992630f72934d0cbd?s=80&amp;d=identicon"/>
+  <author>
+    <name>KONSTA KÖNÖNEN</name>
+    <email>konsta.kononen@tuni.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/9a0be65a7598381cb7a49adc4de216da9c9b2364</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/9a0be65a7598381cb7a49adc4de216da9c9b2364"/>
+  <title>KOkeiluja</title>
+  <updated>2019-11-30T12:46:51Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/41d6e4e6173ed5556a90055d24abb0ca?s=80&amp;d=identicon"/>
+  <author>
+    <name>Antti Ryhanen</name>
+    <email>ryhanena@linux-desktop3.cc.tut.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/90604dbc537add3b2fd3001a74fdf7803a8d3439</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/90604dbc537add3b2fd3001a74fdf7803a8d3439"/>
+  <title>Lisätty testifunktioita</title>
+  <updated>2019-11-29T10:14:09Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/d43441491f851ab992630f72934d0cbd?s=80&amp;d=identicon"/>
+  <author>
+    <name>KONSTA KÖNÖNEN</name>
+    <email>konsta.kononen@tuni.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/081b8d051f524ba2543adbf9e61d6f1c298b3433</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/081b8d051f524ba2543adbf9e61d6f1c298b3433"/>
+  <title>Alustettu .pro tiedosto uuteen testiluokkaan</title>
+  <updated>2019-11-28T17:28:49Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/d43441491f851ab992630f72934d0cbd?s=80&amp;d=identicon"/>
+  <author>
+    <name>KONSTA KÖNÖNEN</name>
+    <email>konsta.kononen@tuni.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/106865a0f61287839b8cfaee2eaef2e608b0ba3f</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/106865a0f61287839b8cfaee2eaef2e608b0ba3f"/>
+  <title>Lisätty ruler-dialogiin säännöt</title>
+  <updated>2019-11-28T17:28:10Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/d43441491f851ab992630f72934d0cbd?s=80&amp;d=identicon"/>
+  <author>
+    <name>KONSTA KÖNÖNEN</name>
+    <email>konsta.kononen@tuni.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/ea74bd6ba172d3c5ddabcf49fff12e9b8a69c16b</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/ea74bd6ba172d3c5ddabcf49fff12e9b8a69c16b"/>
+  <title>Merge branch 'master' into kononen</title>
+  <updated>2019-11-28T16:15:37Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/d43441491f851ab992630f72934d0cbd?s=80&amp;d=identicon"/>
+  <author>
+    <name>KONSTA KÖNÖNEN</name>
+    <email>konsta.kononen@tuni.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/aabe10f2ca8c37ab8af2c0c33ce12bc756d0e670</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/aabe10f2ca8c37ab8af2c0c33ce12bc756d0e670"/>
+  <title>uusi testiluokka</title>
+  <updated>2019-11-28T16:13:58Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/d43441491f851ab992630f72934d0cbd?s=80&amp;d=identicon"/>
+  <author>
+    <name>KONSTA KÖNÖNEN</name>
+    <email>konsta.kononen@tuni.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/cd41bf65bbee980cb02a6019ca43f2e61c21ea29</id>
+  <link href="https://course-gitlab.tuni.fi/tie-02402-ohj3_2019-2020/shalom/commit/cd41bf65bbee980cb02a6019ca43f2e61c21ea29"/>
+  <title>uusi testiluokka objectmanager</title>
+  <updated>2019-11-28T16:12:06Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/d43441491f851ab992630f72934d0cbd?s=80&amp;d=identicon"/>
+  <author>
+    <name>KONSTA KÖNÖNEN</name>
+    <email>konsta.kononen@tuni.fi</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+</feed>
