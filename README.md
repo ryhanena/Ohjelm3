@@ -1,5 +1,5 @@
-Konsta Könönen, 267400
-Antti Ryhänen, 275130
+Konsta Könönen
+Antti Ryhänen
 
 Pirkanmaan valloitus
 Pelin idea ja säännöt:
