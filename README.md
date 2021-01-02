@@ -1,4 +1,4 @@
-Konsta Könönen
+Konsta Könönen,
 Antti Ryhänen
 
 Pirkanmaan valloitus
